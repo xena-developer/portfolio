@@ -254,5 +254,12 @@ section#portfolio {
   .portfolio-container {
     grid-template-columns: 1fr;
   }
+}
 
+@media (max-width: 520px) {
+  .profile-initial img {
+    border-radius: 100px;
+    height: 200px;
+    width: 200px;
+}
 }
