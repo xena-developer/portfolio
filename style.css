@@ -262,4 +262,10 @@ section#portfolio {
     height: 200px;
     width: 200px;
 }
+  .profile-orb {
+    display: none;
+}
+  p.role-label {
+    display: none;
+}
 }
